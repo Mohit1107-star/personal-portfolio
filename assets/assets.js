@@ -96,7 +96,7 @@ export const workData = [
         description: 'Load Forecasting using LSTM',
         bgImage: './work-3.png',
         link: 'https://www.researchgate.net/publication/361999206_Design_and_development_of_Residential_Sector_Load_Prediction_model_during_COVID-19_Pandemic_using_LSTM_based_RNN',
-        tags: ['Python-3', 'Numpy', 'Python'],
+        tags: ['Python-3', 'Numpy'],
     },
 ];
 
